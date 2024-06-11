@@ -1,4 +1,4 @@
-# Netflix GPT Project in Namaste React Web Series By Akshay Saini
+# Netflix GPT Project
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Netflix%20GPT-green)](https://github.com/rajatrawal/netflix-gpt)
 [![Firebase Deployment](https://img.shields.io/badge/Live-Demo)](https://netflixgpt-a347f.web.app/browse)
@@ -24,7 +24,7 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 4. **OpenAI Movie Recommendations**: Enter your OpenAI key for personalized movie suggestions.
 
 ## Preview of Project
-![Capture](https://github.com/rajatrawal/netflix-gpt/assets/72153827/c575eee1-5c7b-4c4e-a866-b64b25ffa5e2)
+![Capture](https://ibb.co/qjhTXSr)
 
 ## Usage
 
