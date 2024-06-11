@@ -28,7 +28,7 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 
 ## Usage
 
-1. Explore the live demo of Netflix GPT [here](https://netflixgpt-a347f.web.app/browse).
+1. Explore the live demo of Netflix GPT [here](https://netflix-gpt-seven-ashen.vercel.app/browse).
 
 2. Sign in using Firebase authentication to unlock personalized features.
 
